@@ -28,4 +28,4 @@ Simple animation of text with typewriter effect.
 - [A CSS-only typewriter effect](https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/)
 - [Code Instinct: Typewriter effect using HTML and CSS](https://www.youtube.com/watch?v=Os_44j2prV8)
 - [ProMaker Dev: Typewriter Effect CSS | [EXPLAINED]](https://www.youtube.com/watch?v=Sm1CYfuIKM8)
-- [Codegrid: Typewriter Effect CSS | HTML & CSS](https://www.youtube.com/watch?v=9ciubFUYYuM)- []
+- [Codegrid: Typewriter Effect CSS | HTML & CSS](https://www.youtube.com/watch?v=9ciubFUYYuM)
